@@ -1,0 +1,12 @@
+.VendingMachine {
+  text-align: center;
+  font-weight: bold;
+}
+
+.VendingMachine a {
+  padding: 0.5em 0;
+  width: 10em;
+  display: inline-block;
+  color: black;
+  text-decoration: none;
+}
